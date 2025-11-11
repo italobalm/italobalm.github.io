@@ -1,2 +1,2 @@
 # italobalm.github.io
-Portfólio simples Italo Melo
+Portfólio simples Ítalo Melo
